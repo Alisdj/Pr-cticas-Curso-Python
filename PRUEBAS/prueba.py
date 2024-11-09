@@ -1,2 +1,2 @@
 print("Hola mundo")
-pr
+print("lalala  lkjñlkjñlkj ")
