@@ -1,3 +1,3 @@
 print("Hola mundo")
 print("lalala  lkjñlkjñlkj ")
-rint("lfgdsfgasdfdsaf")
+rint("lfgdsfgsaf")
